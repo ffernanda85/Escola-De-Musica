@@ -1,0 +1,10 @@
+header{
+    background-color: aqua;
+}
+.card{
+    align-items: center;
+}
+.card img{
+    max-width: 120px;
+    margin-top: 10px;
+}
